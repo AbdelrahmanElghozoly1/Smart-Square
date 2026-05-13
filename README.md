@@ -2,5 +2,5 @@
 موقع لتعليم لعبة الشطرنج للأطفال بطريقة التفكير
 Team members: Abdelrahman reda elghozoly, Mohamed khaled, Ammar mohamed abdelhafiz, Fayz anwar fayz 
 الالتزام التام بتعليمات مشروع التخرج
-Eman abdellatif
+Ahmed Abu ziada
 https://drive.google.com/drive/folders/14ZqxFNWokUOsC9W3o9f3suuvNnX6Osoa
