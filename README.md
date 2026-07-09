@@ -5,7 +5,8 @@
 - Mohamed khaled 
 - Ammar mohamed abdelhafiz
 - Fayz anwar fayz 
-الالتزام التام بتعليمات مشروع التخرج-
+-
+  - الالتزام التام بتعليمات مشروع التخرج
 
 - Ahmed Abu ziada
 
