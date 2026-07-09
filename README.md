@@ -1,10 +1,10 @@
 # Smart-Square
 موقع لتعليم لعبة الشطرنج للأطفال بطريقة التفكير
 Team members: 
-Abdelrahman reda elghozoly 
-Mohamed khaled 
-Ammar mohamed abdelhafiz
-Fayz anwar fayz 
+- Abdelrahman reda elghozoly 
+- Mohamed khaled 
+- Ammar mohamed abdelhafiz
+- Fayz anwar fayz 
 الالتزام التام بتعليمات مشروع التخرج
 Ahmed Abu ziada
 
